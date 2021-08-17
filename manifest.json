@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "WriteThatDown!",
+    "description": "Take notes as you read, Save the tabs you refer to for easier citation in your assignments!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "iconext.png"
+    },
+
+    "permissions": [
+        "tabs"
+    ]
+}
